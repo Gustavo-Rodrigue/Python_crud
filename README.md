@@ -106,65 +106,41 @@ Controle completo de quantidades, entradas e saídas de produtos.
 
 
 
-## 🖼️ Demonstração do Sistema
+🧩 Tela de Login
 
-A seguir estão as capturas de tela que ilustram o funcionamento completo do sistema:
+<img width="400" height="200" alt="Captura de tela 2025-10-21 110832" src="https://github.com/user-attachments/assets/e1259e0f-6c30-406f-ae1b-9f0d665326f8" />
 
-![Captura de tela 2025-10-21 110832.png](Fotos/Captura de tela 2025-10-21 110832.png)
+<img width="400" height="200" alt="Captura de tela 2025-10-21 110852" src="https://github.com/user-attachments/assets/f48bd875-31da-46b6-8b35-6dc2d577456c" />
 
-![Captura de tela 2025-10-21 110852.png](Fotos/Captura de tela 2025-10-21 110852.png)
+🏠 Tela Principal
 
-![Captura de tela 2025-10-21 110907.png](Fotos/Captura de tela 2025-10-21 110907.png)
+<img width="400" height="200" alt="Captura de tela 2025-10-21 110907" src="https://github.com/user-attachments/assets/f68570a4-6a9c-4bf0-940a-040932665304" />
 
-![Captura de tela 2025-10-21 110935.png](Fotos/Captura de tela 2025-10-21 110935.png)
+📦 Tela de Estoque
 
-![Captura de tela 2025-10-21 110946.png](Fotos/Captura de tela 2025-10-21 110946.png)
+<img width="400" height="200" alt="Captura de tela 2025-10-21 110935" src="https://github.com/user-attachments/assets/d5358240-abe3-492c-81ce-d9534b932472" />
 
-![Captura de tela 2025-10-21 111005.png](Fotos/Captura de tela 2025-10-21 111005.png)
+<img width="400" height="200" alt="Captura de tela 2025-10-21 110946" src="https://github.com/user-attachments/assets/e8345191-743c-4678-9f7b-b726220f34e6" />
 
-![Captura de tela 2025-10-21 111014.png](Fotos/Captura de tela 2025-10-21 111014.png)
+<img width="400" height="200" alt="Captura de tela 2025-10-21 111005" src="https://github.com/user-attachments/assets/d50311d1-d956-45ac-9ae3-97c057fd14f2" />
 
-![Captura de tela 2025-10-21 111025.png](Fotos/Captura de tela 2025-10-21 111025.png)
+<img width="400" height="200" alt="Captura de tela 2025-10-21 111014" src="https://github.com/user-attachments/assets/5fc9640c-9903-46bb-8cf1-50cbbc792cf6" />
 
-![Captura de tela 2025-10-21 111041.png](Fotos/Captura de tela 2025-10-21 111041.png)
+<img width="400" height="200" alt="Captura de tela 2025-10-21 111025" src="https://github.com/user-attachments/assets/f206c0fe-c0bc-4700-804b-f916c2de2196" />
 
-![Captura de tela 2025-10-21 111048.png](Fotos/Captura de tela 2025-10-21 111048.png)
+🍛 Tela de Cadastro de Comidas
 
-![Captura de tela 2025-10-21 111130.png](Fotos/Captura de tela 2025-10-21 111130.png)
+<img width="400" height="200" alt="Captura de tela 2025-10-21 111048" src="https://github.com/user-attachments/assets/3321f9d7-e72f-4d52-8d76-5b55b37ba39e" />
 
-![Captura de tela 2025-10-21 111137.png](Fotos/Captura de tela 2025-10-21 111137.png)
+<img width="400" height="200" alt="Captura de tela 2025-10-21 111041" src="https://github.com/user-attachments/assets/ed2fda0e-00bd-49c3-aa83-8d409ebbffe4" />
 
-![Captura de tela 2025-10-21 111147.png](Fotos/Captura de tela 2025-10-21 111147.png)
+<img width="400" height="200" alt="Captura de tela 2025-10-21 111130" src="https://github.com/user-attachments/assets/8da7a496-5e0b-4534-905b-b7bb569ef851" />
 
-![Captura de tela 2025-10-21 111200.png](Fotos/Captura de tela 2025-10-21 111200.png)
+<img width="400" height="200" alt="Captura de tela 2025-10-21 111137" src="https://github.com/user-attachments/assets/fc1761a9-77a0-4180-9b0b-1fefdafb70a1" />
 
-![Captura de tela 2025-10-21 111217.png](Fotos/Captura de tela 2025-10-21 111217.png)
+<img width="400" height="200" alt="Captura de tela 2025-10-21 111147" src="https://github.com/user-attachments/assets/39583541-8501-4508-87e3-19e9f77ee215" />
 
-## 🧩 Roadmap
+<img width="400" height="200" alt="Captura de tela 2025-10-21 111200" src="https://github.com/user-attachments/assets/bcc40009-571b-4720-9ea6-1219590c1fc7" />
 
-- [ ] Adicionar relatórios em PDF (estoque e movimentações)  
-- [ ] Implementar cadastro de usuários com níveis de acesso  
-- [ ] Criar interface de pesquisa e filtros  
-- [ ] Exportar dados para Excel/CSV  
+<img width="400" height="200" alt="Captura de tela 2025-10-21 111217" src="https://github.com/user-attachments/assets/563f4fb3-afc0-4419-a545-2ebcca737a01" />
 
----
-
-## 👨‍🍳 Autor
-
-**Desenvolvido com carinho por [Seu Nome]**  
-💬 *Inspirado na cultura e sabor das comidas nordestinas do Brasil.*  
-
-📧 Contato: [seu.email@exemplo.com]  
-🌐 GitHub: [https://github.com/seuusuario](https://github.com/seuusuario)
-
----
-
-## 🪪 Licença
-
-Este projeto está licenciado sob a **MIT License** — sinta-se à vontade para usar, modificar e distribuir.
-
----
-
-### 🖤 “Tecnologia com sabor de cultura nordestina.” 🌵
-=======
->>>>>>> a951fbc1ef6b6ee28595bc093e4bb2e54bc5905a
