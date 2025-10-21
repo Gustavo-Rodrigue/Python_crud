@@ -87,7 +87,6 @@ Controle completo de quantidades, entradas e saídas de produtos.
 | Linguagem | 🐍 Python 3 |
 | Interface | Tkinter + ttk.Style |
 | Banco de Dados | SQLite3 |
-| Design | Dark Mode temático |
 | Organização | Estrutura modular (MVC simplificado) |
 
 ---
@@ -103,30 +102,3 @@ Controle completo de quantidades, entradas e saídas de produtos.
 - **Layout:** Centralizado, com ícones e tipografia moderna  
 
 ---
-
-## 🧩 Roadmap
-
-- [ ] Adicionar relatórios em PDF (estoque e movimentações)  
-- [ ] Implementar cadastro de usuários com níveis de acesso  
-- [ ] Criar interface de pesquisa e filtros  
-- [ ] Exportar dados para Excel/CSV  
-
----
-
-## 👨‍🍳 Autor
-
-**Desenvolvido com carinho por [Seu Nome]**  
-💬 *Inspirado na cultura e sabor das comidas nordestinas do Brasil.*  
-
-📧 Contato: [seu.email@exemplo.com]  
-🌐 GitHub: [https://github.com/seuusuario](https://github.com/seuusuario)
-
----
-
-## 🪪 Licença
-
-Este projeto está licenciado sob a **MIT License** — sinta-se à vontade para usar, modificar e distribuir.
-
----
-
-### 🖤 “Tecnologia com sabor de cultura nordestina.” 🌵
