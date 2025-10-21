@@ -104,6 +104,42 @@ Controle completo de quantidades, entradas e saídas de produtos.
 
 ---
 
+
+
+## 🖼️ Demonstração do Sistema
+
+A seguir estão as capturas de tela que ilustram o funcionamento completo do sistema:
+
+![Captura de tela 2025-10-21 110832.png](Fotos/Captura de tela 2025-10-21 110832.png)
+
+![Captura de tela 2025-10-21 110852.png](Fotos/Captura de tela 2025-10-21 110852.png)
+
+![Captura de tela 2025-10-21 110907.png](Fotos/Captura de tela 2025-10-21 110907.png)
+
+![Captura de tela 2025-10-21 110935.png](Fotos/Captura de tela 2025-10-21 110935.png)
+
+![Captura de tela 2025-10-21 110946.png](Fotos/Captura de tela 2025-10-21 110946.png)
+
+![Captura de tela 2025-10-21 111005.png](Fotos/Captura de tela 2025-10-21 111005.png)
+
+![Captura de tela 2025-10-21 111014.png](Fotos/Captura de tela 2025-10-21 111014.png)
+
+![Captura de tela 2025-10-21 111025.png](Fotos/Captura de tela 2025-10-21 111025.png)
+
+![Captura de tela 2025-10-21 111041.png](Fotos/Captura de tela 2025-10-21 111041.png)
+
+![Captura de tela 2025-10-21 111048.png](Fotos/Captura de tela 2025-10-21 111048.png)
+
+![Captura de tela 2025-10-21 111130.png](Fotos/Captura de tela 2025-10-21 111130.png)
+
+![Captura de tela 2025-10-21 111137.png](Fotos/Captura de tela 2025-10-21 111137.png)
+
+![Captura de tela 2025-10-21 111147.png](Fotos/Captura de tela 2025-10-21 111147.png)
+
+![Captura de tela 2025-10-21 111200.png](Fotos/Captura de tela 2025-10-21 111200.png)
+
+![Captura de tela 2025-10-21 111217.png](Fotos/Captura de tela 2025-10-21 111217.png)
+
 ## 🧩 Roadmap
 
 - [ ] Adicionar relatórios em PDF (estoque e movimentações)  
